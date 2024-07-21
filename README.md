@@ -16,3 +16,6 @@
 
 ## 補足資料
 - 回帰.ipynb
+
+## 実行環境
+Google Colaboratory
